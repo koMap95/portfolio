@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/github.io/portfolio/static/css/main.df6a7eab.css",
+    "main.js": "/github.io/portfolio/static/js/main.36bfb200.js",
+    "static/js/787.daffe1f0.chunk.js": "/github.io/portfolio/static/js/787.daffe1f0.chunk.js",
+    "static/media/critiq.png": "/github.io/portfolio/static/media/critiq.3e3c7d609986ae0340ec.png",
+    "static/media/games.jpg": "/github.io/portfolio/static/media/games.8acf272ac7fa09e417b9.jpg",
+    "static/media/gallery.jpg": "/github.io/portfolio/static/media/gallery.634132260dd6e20a1938.jpg",
+    "static/media/clinic.jpg": "/github.io/portfolio/static/media/clinic.873cc3db671921d53ea4.jpg",
+    "index.html": "/github.io/portfolio/index.html",
+    "main.df6a7eab.css.map": "/github.io/portfolio/static/css/main.df6a7eab.css.map",
+    "main.36bfb200.js.map": "/github.io/portfolio/static/js/main.36bfb200.js.map",
+    "787.daffe1f0.chunk.js.map": "/github.io/portfolio/static/js/787.daffe1f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df6a7eab.css",
+    "static/js/main.36bfb200.js"
+  ]
+}
