@@ -28,10 +28,10 @@ const Footer = () => {
             <Heading as='h6' size='xs' >Technologies that was used: React.js, Chakra UI, Formik </Heading>
           </VStack>
 
-          <Tooltip label='You will be redirected to the GitHub pages'>
+          <Tooltip label='You will be redirected to the GitHub'>
             <a
-              key='https://komap95.github.io/HealthCare/'
-              href='https://komap95.github.io/HealthCare/'
+              key='https://github.com/koMap95/portfolio'
+              href='https://github.com/koMap95/portfolio'
               target="_blank"
               rel="noopener noreferrer"
             >
